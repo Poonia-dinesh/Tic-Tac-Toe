@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "279334191207",
+    "project_id": "tic-tac-toe-e93aa",
+    "storage_bucket": "tic-tac-toe-e93aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279334191207:android:6e6a2961a121d4f08714c2",
+        "android_client_info": {
+          "package_name": "com.example.tictactoeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279334191207-rupsucgv7ieeavf8kj2nsgr71rrlo8uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDehmerrrrSzf0eteO8tTF8tJbJN-FkS1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279334191207-rupsucgv7ieeavf8kj2nsgr71rrlo8uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279334191207:android:0453cd6755aec8b08714c2",
+        "android_client_info": {
+          "package_name": "com.poonia.tictactoeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279334191207-rupsucgv7ieeavf8kj2nsgr71rrlo8uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDehmerrrrSzf0eteO8tTF8tJbJN-FkS1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279334191207-rupsucgv7ieeavf8kj2nsgr71rrlo8uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
